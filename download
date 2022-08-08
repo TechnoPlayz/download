@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOWNLOAD ANDROID VERSION</title>
+    <link rel="stylesheet" href="style.css">
+	  <link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/955833695309295645/972706171070869534/small_auto_x2-removebg-preview.png">
+</head>
+<body>
+
+<div class="loader_bg">
+    <div class="loader"></div>
+</div>
+
+<body>
+	
+	<a href="https://technoplayz.github.io/download/Axolotl_Dimention_Installer.apk" class="" id="Neon">
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		V.1.1 | DOWNLOAD
+	</a>
+	 <p style="color:red;" id="rcorners2">FIRST VERSION OF APPLICATION WITH 
+	MANY FEATURE LIKE STATUS, ADVANCE DASHBOARD , SETTING & MORE.... </p>
+	<a href="https://discord.io/Axolotldimention" class="" id="Neon">
+		<span></span>
+		<span></span>
+		<span></span>
+		<span></span>
+		DISCORD | HELP
+	 </a>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        setTimeout(function(){
+            $('.loader_bg').fadeToggle();
+        }, 1500);
+	    
+	</script>
+	
+	<script>
+	    <!--hide
+
+var password;
+var pass1="axolotldimention";
+
+password=prompt('Please enter your password to view this page!',' ');
+
+if (password==pass1)
+  alert('Password Correct! Click OK to enter!');
+else
+   {
+    window.location="https://desktop.axolotldimention.ga/h_af231he13yti2_j314hyf21?ad23;
+    }
+
+//-->
+	    
+    </script>
+	
+</body>
+</html>
